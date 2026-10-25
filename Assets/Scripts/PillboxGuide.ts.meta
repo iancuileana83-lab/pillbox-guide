@@ -1,0 +1,49 @@
+- !<AssetImportMetadata/66b13333-dcf3-4e29-9b6a-4cadf01d568b>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 6af033a3-a929-4885-80b6-bb8bb3055c95
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 6af033a3-a929-4885-80b6-bb8bb3055c95
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 1a217a30-49a5-4e01-8ce6-1c4fea057802
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/1a217a30-49a5-4e01-8ce6-1c4fea057802>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: d70cb451-3e60-4fe3-9877-49b29d2450e9
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    boxMesh: false
+    unlitMat: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - boxMesh: !<reference.RenderMesh> 00000000-0000-0000-0000-000000000000
+      unlitMat: !<reference.Material> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Asset.RenderMesh boxMesh {"hint":"Unit box mesh used for every shape"}'
+    - '// @input Asset.Material unlitMat {"hint":"Unlit material, cloned for each shape"}'

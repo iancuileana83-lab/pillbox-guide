@@ -1,0 +1,95 @@
+1
+00:00:00,000 --> 00:00:03,055
+Filling a weekly pill organizer is easy to get wrong.
+
+2
+00:00:03,055 --> 00:00:06,686
+Pillbox Guide shows which compartment to use, right on the
+box.
+
+3
+00:00:06,686 --> 00:00:13,884
+This video is a slideshow of screenshots from the Lens Studio
+preview, because my laptop could not record live.
+
+4
+00:00:13,884 --> 00:00:18,297
+First, the grid is placed over the organizer, which here is a
+stand-in box.
+
+5
+00:00:18,297 --> 00:00:23,475
+The user pinches and drags the grid into place, stretches it
+to match, and presses Done.
+
+6
+00:00:23,475 --> 00:00:26,829
+In my tests the hand input is simulated by a test script.
+
+7
+00:00:26,829 --> 00:00:31,159
+How well the grid stays aligned on real glasses is unproven.
+
+8
+00:00:31,159 --> 00:00:36,003
+A schedule card comes first, with a reminder to check the list
+with your pharmacist.
+
+9
+00:00:36,003 --> 00:00:37,790
+Then each medicine gets a step.
+
+10
+00:00:37,790 --> 00:00:43,326
+Every compartment where it goes lights up with a one, and the
+bright one with the arrow is next.
+
+11
+00:00:43,326 --> 00:00:44,536
+The card always says:
+
+12
+00:00:44,536 --> 00:00:47,470
+Example schedule, not medical advice.
+
+13
+00:00:47,470 --> 00:00:53,188
+Pinching Next, or anywhere, ticks the compartment green with a
+check and moves the arrow on.
+
+14
+00:00:53,188 --> 00:00:54,493
+The card keeps count.
+
+15
+00:00:54,493 --> 00:00:56,536
+Undo steps back one.
+
+16
+00:00:56,536 --> 00:01:03,362
+After the last compartment of a medicine, the card says to put
+the box away, then moves on to the next medicine.
+
+17
+00:01:03,362 --> 00:01:12,349
+At the end, every compartment shows how many tablets it should
+hold, for one last check, and the card says the organizer is
+ready, with the pharmacist reminder.
+
+18
+00:01:12,349 --> 00:01:14,372
+The Lens never gives medical advice.
+
+19
+00:01:14,372 --> 00:01:17,362
+It only shows the schedule you give it.
+
+20
+00:01:17,362 --> 00:01:22,652
+Built with Claude Code and CLAD, and checked with six LEAF
+tests in the Lens Studio preview.
+
+21
+00:01:22,652 --> 00:01:26,672
+This was only tried in the preview, not on real glasses.
+
